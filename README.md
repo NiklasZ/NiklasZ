@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm a software/ML/other types of engineer. If you're curious about my background, take a look at classes I've taken during my [Bachelor's of Science](https://github.com/NiklasZ/NiklasZ/blob/main/bsc_classes.md) and [Master's of Science](https://github.com/NiklasZ/NiklasZ/blob/main/msc_classes.md). Below is a contents page of my repositories, loosely grouped by area:
+I'm a software/ML/other types of engineer. If you're curious about my background, take a look at classes I've taken during my [Bachelors of Science](https://github.com/NiklasZ/NiklasZ/blob/main/bsc_classes.md) and [Masters of Science](https://github.com/NiklasZ/NiklasZ/blob/main/msc_classes.md). Below is a contents page of my repositories, loosely grouped by area:
 
 ## General Machine Learning
 - [Data mining and end-to-end analysis](https://github.com/NiklasZ/large-scale-data-mining-projects) ⛏️
