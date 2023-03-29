@@ -3,6 +3,7 @@ I'm a software/ML/other types of engineer. If you're curious about my background
 
 ## General Machine Learning
 - [Data mining and end-to-end analysis](https://github.com/NiklasZ/large-scale-data-mining-projects) ⛏️
+- [Data selection via Importance sampling](https://github.com/NiklasZ/large-scale-ml-project) 📊
 - [Race horse betting time series](https://github.com/NiklasZ/race-horse-bets) 🏇
 
 ## Natural Language Processing
