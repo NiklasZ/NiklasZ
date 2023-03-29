@@ -6,16 +6,16 @@ I'm a software/ML/other types of engineer. If you're curious about my background
 - [Data selection via importance sampling](https://github.com/NiklasZ/large-scale-ml-project) 📊
 - [Race horse betting time series](https://github.com/NiklasZ/race-horse-bets) 🏇
 
-## Natural Language Processing
-- [Disaster tweet classifier](https://github.com/NiklasZ/disaster-tweets-project) 🐦
-- [Sarcastic reddit comment classifier](https://github.com/NiklasZ/sarcasm-classification-project) 💬
-- [Seq2seq movie dialogue generator](https://github.com/NiklasZ/Seq2Seq-Dialogue-Generator) 🎬
-
 ## Reinforcement Learning & Artificial Intelligence
 - [Battleships DQN](https://github.com/NiklasZ/deep-battleships) 🚢
 - [Go life and death player](https://github.com/NiklasZ/Go-Life-and-Death-Player) ♠️
 - [Probabilistic battleships](https://github.com/NiklasZ/BattleshipAI) 🎲
 - [Transformers for variable action environments](https://github.com/NiklasZ/transformers-for-variable-action-envs) (published [📜](https://arxiv.org/abs/2301.03679))
+
+## Natural Language Processing
+- [Disaster tweet classifier](https://github.com/NiklasZ/disaster-tweets-project) 🐦
+- [Sarcastic reddit comment classifier](https://github.com/NiklasZ/sarcasm-classification-project) 💬
+- [Seq2seq movie dialogue generator](https://github.com/NiklasZ/Seq2Seq-Dialogue-Generator) 🎬
 
 ## Games
 - [Callcenter guitar hero](https://github.com/NiklasZ/HoboSort) ☎️
