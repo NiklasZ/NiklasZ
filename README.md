@@ -3,7 +3,7 @@ I'm a software/ML/other types of engineer. If you're curious about my background
 
 ## General Machine Learning
 - [Data mining and end-to-end analysis](https://github.com/NiklasZ/large-scale-data-mining-projects) ⛏️
-- [Data selection via Importance sampling](https://github.com/NiklasZ/large-scale-ml-project) 📊
+- [Data selection via importance sampling](https://github.com/NiklasZ/large-scale-ml-project) 📊
 - [Race horse betting time series](https://github.com/NiklasZ/race-horse-bets) 🏇
 
 ## Natural Language Processing
@@ -13,18 +13,18 @@ I'm a software/ML/other types of engineer. If you're curious about my background
 
 ## Reinforcement Learning & Artificial Intelligence
 - [Battleships DQN](https://github.com/NiklasZ/deep-battleships) 🚢
-- [Go Life and Death Player](https://github.com/NiklasZ/Go-Life-and-Death-Player) ♠️
-- [Probabilistic Battleships](https://github.com/NiklasZ/BattleshipAI) 🎲
-- [Transformers for Variable Action Environments](https://github.com/NiklasZ/transformers-for-variable-action-envs) (published 📜)
+- [Go life and death player](https://github.com/NiklasZ/Go-Life-and-Death-Player) ♠️
+- [Probabilistic battleships](https://github.com/NiklasZ/BattleshipAI) 🎲
+- [Transformers for variable action environments](https://github.com/NiklasZ/transformers-for-variable-action-envs) (published 📜)
 
 ## Games
-- [Callcenter Guitar Hero](https://github.com/NiklasZ/HoboSort) ☎️
-- [Flight Simulator mini-game](https://github.com/NiklasZ/DonutMotion) 🛩
+- [Callcenter guitar hero](https://github.com/NiklasZ/HoboSort) ☎️
+- [Flight simulator mini-game](https://github.com/NiklasZ/DonutMotion) 🛩
 - [Multiplayer racer](https://github.com/NiklasZ/MotoMotoMoto) 🏍
 
 ## Other
 - [Financial interchange protocol library](https://github.com/NiklasZ/jspurefix) 💸
-- [Metabolite Structure Analysis](https://github.com/NiklasZ/Metabolite-Substructures) ⚗️
+- [Metabolite structure analysis](https://github.com/NiklasZ/Metabolite-Substructures) ⚗️
 - [Scooping robotic arm](https://github.com/NiklasZ/scooper-kinematics-project) 🦾
 
 <!--
