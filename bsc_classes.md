@@ -1,4 +1,4 @@
-This file covers classes taken during last 2 years of my BSc.
+This file covers classes taken during the last 2 years of my BSc.
 
 
 | **Course Name**                        | **Description**                                                                                                                                                                                                                                                            | Coursework                                                        |
