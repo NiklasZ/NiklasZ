@@ -8,6 +8,7 @@ I'm a software/ML/other types of engineer. If you're curious about my background
 
 ## Reinforcement Learning & Artificial Intelligence
 - [Battleships DQN](https://github.com/NiklasZ/deep-battleships) 🚢
+- [Decision Transfomer for MuJoCo 2D Walker](https://github.com/NiklasZ/decision-transformers-example) 🚶
 - [Go life and death player](https://github.com/NiklasZ/Go-Life-and-Death-Player) ♠️
 - [Probabilistic battleships](https://github.com/NiklasZ/BattleshipAI) 🎲
 - [Transformers for variable action environments](https://github.com/NiklasZ/transformers-for-variable-action-envs) (published [📜](https://arxiv.org/abs/2301.03679))
