@@ -24,7 +24,7 @@ I'm a software/ML/other types of engineer. If you're curious about my background
 - [Multiplayer racer](https://github.com/NiklasZ/MotoMotoMoto) 🏍
 
 ## Other
-- [Financial interchange protocol library](https://github.com/NiklasZ/jspurefix) 💸
+- [Financial interchange protocol library](https://github.com/NiklasZ/jspurefix) (contributer) 💸
 - [Metabolite structure analysis](https://github.com/NiklasZ/Metabolite-Substructures) ⚗️
 - [Scooping robotic arm](https://github.com/NiklasZ/scooper-kinematics-project) 🦾
 
