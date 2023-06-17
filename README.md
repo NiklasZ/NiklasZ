@@ -23,10 +23,13 @@ I'm a software/ML/other types of engineer. If you're curious about my background
 - [Flight simulator mini-game](https://github.com/NiklasZ/DonutMotion) 🛩
 - [Multiplayer racer](https://github.com/NiklasZ/MotoMotoMoto) 🏍
 
+## Robotics
+- [Matlab workspace plotting add-on](https://github.com/NiklasZ/robotic_arm_workspace) 🤖
+-  [Scooping robotic arm](https://github.com/NiklasZ/scooper-kinematics-project) 🦾
+
 ## Other
 - [Financial interchange protocol library](https://github.com/NiklasZ/jspurefix) (contributer) 💸
 - [Metabolite structure analysis](https://github.com/NiklasZ/Metabolite-Substructures) ⚗️
-- [Scooping robotic arm](https://github.com/NiklasZ/scooper-kinematics-project) 🦾
 
 <!--
 **NiklasZ/NiklasZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
