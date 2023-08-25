@@ -12,6 +12,7 @@ I'm a software/ML/other types of engineer. If you're curious about my background
 - [Go life and death player](https://github.com/NiklasZ/Go-Life-and-Death-Player) ♠️
 - [Probabilistic battleships](https://github.com/NiklasZ/BattleshipAI) 🎲
 - [Transformers for variable action environments](https://github.com/NiklasZ/transformers-for-variable-action-envs) (published [📜](https://arxiv.org/abs/2301.03679))
+- [DreamerV3 MARL Implementation](https://github.com/NiklasZ/dreamerv3-marl) 🛌:
 
 ## Natural Language Processing
 - [Disaster tweet classifier](https://github.com/NiklasZ/disaster-tweets-project) 🐦
