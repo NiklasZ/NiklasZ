@@ -5,6 +5,7 @@ I'm a software/ML/other types of engineer. If you're curious about my background
 - [Data mining and end-to-end analysis](https://github.com/NiklasZ/large-scale-data-mining-projects) ⛏️
 - [Data selection via importance sampling](https://github.com/NiklasZ/large-scale-ml-project) 📊
 - [Race horse betting time series](https://github.com/NiklasZ/race-horse-bets) 🏇
+- [PyTorch Machine Learning Framework](https://github.com/pytorch/pytorch) (contributer) 🔥
 
 ## Reinforcement Learning & Artificial Intelligence
 - [Battleships DQN](https://github.com/NiklasZ/deep-battleships) 🚢
