@@ -6,7 +6,7 @@ I'm a software/ML/other types of engineer. If you're curious about my background
 - [Data selection via importance sampling](https://github.com/NiklasZ/large-scale-ml-project) 📊
 - [Race horse betting time series](https://github.com/NiklasZ/race-horse-bets) 🏇
 - [PyTorch Machine Learning Framework](https://github.com/NiklasZ/pytorch) (contributer) 🔥
-- [Keeping my cats off my kitchen counter with Computer Vision](https://github.com/NiklasZ/thunder-cat) 🐈
+- [Deterring Cats with Computer Vision](https://github.com/NiklasZ/thunder-cat) 🐈
 
 ## Reinforcement Learning & Artificial Intelligence
 - [Battleships DQN](https://github.com/NiklasZ/deep-battleships) 🚢
