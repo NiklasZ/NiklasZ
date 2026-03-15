@@ -34,6 +34,7 @@ I'm a software/ML/other types of engineer. If you're curious about my background
 - [Financial interchange protocol library](https://github.com/NiklasZ/jspurefix) (contributer) 💸
 - [Metabolite structure analysis](https://github.com/NiklasZ/Metabolite-Substructures) ⚗️
 - [Proton email reminder patching service](https://github.com/NiklasZ/proton-reminder-patcher) 📬
+- [Youtube Music to M3U Playlist converter](https://github.com/NiklasZ/youtube-music-to-m3u) 🎵
 
 <!--
 **NiklasZ/NiklasZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
