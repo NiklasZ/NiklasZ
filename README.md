@@ -13,10 +13,10 @@ I'm a ML/research/other types of engineer. If you're curious about my background
 - [Decision Transfomer for MuJoCo 2D Walker](https://github.com/NiklasZ/decision-transformers-example) 🚶
 - [Go life and death player](https://github.com/NiklasZ/Go-Life-and-Death-Player) ♠️
 - [Probabilistic battleships](https://github.com/NiklasZ/BattleshipAI) 🎲
-- [Transformers for variable action environments](https://github.com/NiklasZ/transformers-for-variable-action-envs) (published [📜](https://arxiv.org/abs/2301.03679))
-- [DreamerV3 MARL Implementation](https://github.com/NiklasZ/dreamerv3-marl) 🛌
+- [Transformers for variable action environments](https://github.com/NiklasZ/transformers-for-variable-action-envs) (paper [📜](https://arxiv.org/abs/2301.03679))
 
 ## Natural Language Processing
+- [Simply Scalable Speculative Decoding for LLMS](https://github.com/huawei-csl/sglang-sssd) (contributer, paper[📜](https://arxiv.org/pdf/2411.05894))
 - [Disaster tweet classifier](https://github.com/NiklasZ/disaster-tweets-project) 🐦
 - [Sarcastic reddit comment classifier](https://github.com/NiklasZ/sarcasm-classification-project) 💬
 - [Seq2seq movie dialogue generator](https://github.com/NiklasZ/Seq2Seq-Dialogue-Generator) 🎬
